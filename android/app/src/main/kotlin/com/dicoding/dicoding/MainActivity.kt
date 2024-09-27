@@ -1,0 +1,6 @@
+package com.dicoding.dicoding
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
