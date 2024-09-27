@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # dicoding
 
 Submission for dicoding
@@ -17,4 +16,3 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 =======
 # dicoding-membuat-aplikasi-flutter
->>>>>>> f1dd558092b39443aace392d9ac3b3107bc46f48
