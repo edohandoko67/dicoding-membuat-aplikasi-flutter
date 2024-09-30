@@ -12,29 +12,6 @@ class Tourist extends StatefulWidget {
 }
 
 class _TouristState extends State<Tourist> {
-  //
-  // List<Map<String, dynamic>> coffeeShop = [
-  //   {
-  //     "id": 1,
-  //     "name" : "Jangkar Coffee",
-  //     "image": "assets/images/kedai.jpg",
-  //     "location": "Teratai, Mojokerto",
-  //     "description": "Merupakan kedai kopi yang baru saja dibuka.",
-  //     "day": "Setiap hari",
-  //     "time": "09.00 AM - 12.00 PM",
-  //     "price": "Rp15.000 - Rp20.000"
-  //   },
-  //   {
-  //     "id": 2,
-  //     "name" : "Olive Coffee",
-  //     "image": "assets/images/warkop.jpg",
-  //     "location": "BanjarAgung, Mojokerto",
-  //     "description": "Merupakan warung kopi yang mempunyai ciri khas tersendiri.",
-  //     "day": "Setiap hari",
-  //     "time": "00.00 AM - 12.00 PM",
-  //     "price": "Rp5.000 - Rp15.000"
-  //   }
-  // ];
 
   @override
   Widget build(BuildContext context) {
