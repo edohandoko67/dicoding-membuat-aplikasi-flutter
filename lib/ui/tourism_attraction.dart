@@ -4,14 +4,8 @@ import 'package:google_fonts/google_fonts.dart';
 
 import 'detail_image.dart';
 
-class Tourist extends StatefulWidget {
+class Tourist extends StatelessWidget {
   Tourist({super.key});
-
-  @override
-  State<Tourist> createState() => _TouristState();
-}
-
-class _TouristState extends State<Tourist> {
 
   @override
   Widget build(BuildContext context) {
@@ -64,7 +58,7 @@ class _TouristState extends State<Tourist> {
                       ),
                     );
                   }),
-            )
+            ),
           ],
         ),
       ),

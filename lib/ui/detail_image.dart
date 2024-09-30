@@ -89,18 +89,18 @@ class FavoriteButton extends StatefulWidget {
 }
 
 class _FavoriteButtonState extends State<FavoriteButton> {
-  bool isFav = false;
+  bool _isFav = false;
 
   @override
   Widget build(BuildContext context) {
     return IconButton(
       icon: Icon(
-        isFav ? Icons.favorite : Icons.favorite_border,
+        _isFav ? Icons.favorite : Icons.favorite_border,
         color: Colors.red,
       ),
       onPressed: () {
         setState(() {
-          isFav = !isFav;
+          _isFav = !_isFav;
         });
       },
     );
